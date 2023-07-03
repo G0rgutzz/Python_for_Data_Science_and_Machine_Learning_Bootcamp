@@ -19,6 +19,7 @@ print(f)  doesn't work
 # Bank of America
 BAC = data.DataReader('BAC', 'yahoo', start, end)
 print(BAC)
+# asdf
 '''
 # CitiGroup
 C = data.DataReader("C", 'yahoo', start, end)
